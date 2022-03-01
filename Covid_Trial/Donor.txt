@@ -1,0 +1,5 @@
+Sakshi	21	Female	Wai	874512369	Sakshi	21	Female	Satara	874569321	Sakshi	54	Female	Pune	789654123	ABC1	XYZ1	25/03/2021	25/09/2023	Medicine accepted
+Aachal	23	Female	Washim	789654123	ABC2	XYZ2	25/06/2021	25/09/2023	Medicine accepted
+Aachal	21	Female	Mumbai	745698523	ABC7	XYZ7	25/01/2021	26/05/2022	Medicine accepted
+j	24	Male	Pune	456987123	ABC5	XYZ5	5	25/2/2021	26/05/2023	Medicine accepted
+iop	2	po	poi	54	l	7	l	l	4	ABC5	XYZ5	5	Vikas	24	Male	Pune	456987123	ABC2	XYZ2	5	Sarika (456987123)	25/05/2021	25/03/2022	Medicine declined
